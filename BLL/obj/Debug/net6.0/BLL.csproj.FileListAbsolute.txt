@@ -1,0 +1,85 @@
+C:\yael\programming\projectShop\Project_GameShop\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\yael\programming\projectShop\Project_GameShop\BLL\bin\Debug\net6.0\BLL.dll
+C:\yael\programming\projectShop\Project_GameShop\BLL\bin\Debug\net6.0\BLL.pdb
+C:\yael\programming\projectShop\Project_GameShop\BLL\bin\Debug\net6.0\DAL.dll
+C:\yael\programming\projectShop\Project_GameShop\BLL\bin\Debug\net6.0\DTO.dll
+C:\yael\programming\projectShop\Project_GameShop\BLL\bin\Debug\net6.0\DTO.pdb
+C:\yael\programming\projectShop\Project_GameShop\BLL\bin\Debug\net6.0\DAL.pdb
+C:\yael\programming\projectShop\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\yael\programming\projectShop\Project_GameShop\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\yael\programming\projectShop\Project_GameShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\yael\programming\projectShop\Project_GameShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\yael\programming\projectShop\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\yael\programming\projectShop\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\yael\programming\projectShop\Project_GameShop\BLL\obj\Debug\net6.0\BLL.dll
+C:\yael\programming\projectShop\Project_GameShop\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\yael\programming\projectShop\Project_GameShop\BLL\obj\Debug\net6.0\BLL.pdb
+C:\yael\programming\projectShop\Project_GameShop\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\bin\Debug\net6.0\DTO.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\bin\Debug\net6.0\DTO.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\DTO.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\DTO.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\BLL.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\BLL.pdb
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\DAL.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\DTO.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\DTO.pdb
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\bin\Debug\net6.0\DAL.pdb
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\BLL.pdb
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\BLL\obj\Debug\net6.0\ref\BLL.dll

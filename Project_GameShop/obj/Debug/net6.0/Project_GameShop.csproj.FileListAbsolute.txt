@@ -1,0 +1,410 @@
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\appsettings.Development.json
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\appsettings.json
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.exe
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.deps.json
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.runtimeconfig.json
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.pdb
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.AssemblyReference.cache
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.AssemblyInfoInputs.cache
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.AssemblyInfo.cs
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.CoreCompileInputs.cache
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.MvcApplicationPartsAssemblyInfo.cs
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.MvcApplicationPartsAssemblyInfo.cache
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\scopedcss\bundle\Project_GameShop.styles.css
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.CopyComplete
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\refint\Project_GameShop.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.pdb
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.genruntimeconfig.cache
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\obj\Debug\net6.0\ref\Project_GameShop.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Azure.Core.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DAL.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DAL.pdb
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\AutoMapper.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\BLL.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DTO.dll
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\BLL.pdb
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DTO.pdb
+C:\yael\programming\projectShop\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.staticwebassets.runtime.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.AssemblyReference.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.AssemblyInfoInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.AssemblyInfo.cs
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.CoreCompileInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\refint\Project_GameShop.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\appsettings.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.staticwebassets.runtime.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.exe
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.deps.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.runtimeconfig.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DAL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DTO.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\BLL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DAL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DTO.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\scopedcss\bundle\Project_GameShop.styles.css
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.CopyComplete
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.genruntimeconfig.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\Project_GameShop\Project_GameShop\obj\Debug\net6.0\ref\Project_GameShop.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\appsettings.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.staticwebassets.runtime.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.exe
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.deps.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.runtimeconfig.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DAL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DTO.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\BLL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DAL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DTO.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.AssemblyReference.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.AssemblyInfoInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.AssemblyInfo.cs
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.CoreCompileInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\scopedcss\bundle\Project_GameShop.styles.css
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.CopyComplete
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\refint\Project_GameShop.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.genruntimeconfig.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט משופץ\Project_GameShop\Project_GameShop\obj\Debug\net6.0\ref\Project_GameShop.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\appsettings.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.staticwebassets.runtime.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.exe
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.deps.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.runtimeconfig.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\BLL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DAL.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DTO.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\BLL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DAL.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DTO.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.AssemblyReference.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.AssemblyInfoInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.AssemblyInfo.cs
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.CoreCompileInputs.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\scopedcss\bundle\Project_GameShop.styles.css
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.CopyComplete
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\refint\Project_GameShop.dll
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.pdb
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.genruntimeconfig.cache
+C:\Users\YAEL\OneDrive\שולחן העבודה\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\ref\Project_GameShop.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\appsettings.Development.json
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\appsettings.json
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.staticwebassets.runtime.json
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.exe
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.deps.json
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.runtimeconfig.json
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Project_GameShop.pdb
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\AutoMapper.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Azure.Core.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\BLL.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DAL.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DTO.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\BLL.pdb
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DAL.pdb
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\bin\Debug\net6.0\DTO.pdb
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.AssemblyReference.cache
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.AssemblyInfoInputs.cache
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.AssemblyInfo.cs
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.CoreCompileInputs.cache
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.MvcApplicationPartsAssemblyInfo.cs
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.MvcApplicationPartsAssemblyInfo.cache
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\scopedcss\bundle\Project_GameShop.styles.css
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.csproj.CopyComplete
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\refint\Project_GameShop.dll
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.pdb
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\Project_GameShop.genruntimeconfig.cache
+C:\yael\programming\full stack\פרויקט סופי להגשה\web api\Project_GameShop\Project_GameShop\obj\Debug\net6.0\ref\Project_GameShop.dll
